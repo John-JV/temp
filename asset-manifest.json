@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/temp/static/css/main.43e03afc.css",
+    "main.js": "/temp/static/js/main.e9ccd3a2.js",
+    "static/media/lanadel.png": "/temp/static/media/lanadel.75be08eb8a67161e725b.png",
+    "static/media/six.jpg": "/temp/static/media/six.1f20995ba2ff51ca3a16.jpg",
+    "static/media/ten.jpg": "/temp/static/media/ten.9439ba987050309a273a.jpg",
+    "static/media/one.jpg": "/temp/static/media/one.8c65c032be6a5d5a84cc.jpg",
+    "static/media/three.jpg": "/temp/static/media/three.88493accb2f8a9655646.jpg",
+    "static/media/two.jpg": "/temp/static/media/two.5fa9e0e305eef9524fa1.jpg",
+    "static/media/dress.jpg": "/temp/static/media/dress.faa37b6fdec5d04ed6f3.jpg",
+    "static/media/jacket.jpg": "/temp/static/media/jacket.adcc8439ac17cad4743d.jpg",
+    "static/media/weeknd.jpg": "/temp/static/media/weeknd.07d942aa17742b92a787.jpg",
+    "static/media/four.jpg": "/temp/static/media/four.0f02b33b7f19d9ba7906.jpg",
+    "static/media/others.jpg": "/temp/static/media/others.535724d36d4c82726d0f.jpg",
+    "static/media/kb.jpg": "/temp/static/media/kb.f4b13a00680848c9b969.jpg",
+    "static/media/kid.jpg": "/temp/static/media/kid.68c138a36846ebaddd6d.jpg",
+    "index.html": "/temp/index.html",
+    "main.43e03afc.css.map": "/temp/static/css/main.43e03afc.css.map",
+    "main.e9ccd3a2.js.map": "/temp/static/js/main.e9ccd3a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43e03afc.css",
+    "static/js/main.e9ccd3a2.js"
+  ]
+}
