@@ -13,7 +13,7 @@ const Layout = (props) => {
             <Link className={styles.link+ ' ' + styles.fromLeft} to="/" >Home</Link>
           </li>
           <li className={styles.li}>
-            <Link className={styles.link} to="/blogs">About Us</Link>
+            <Link className={styles.link} to="/AboutUS">About Us</Link>
           </li>
         </ul>
           <ul>

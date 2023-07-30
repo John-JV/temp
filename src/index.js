@@ -91,8 +91,8 @@ export default function App() {
      <BrowserRouter>
        <Routes>
           <Route path="/" element={<Layout amh={amh} eng={eng}/>}>
-            <Route index element={<Home mens={mens} womens={womens} kids={kids} everyweek={everyweek} dfcl={dfcl} shirts={shirts} jackets={jackets} hoodies={hoodies} dresses={dresses} trousers={trousers} others={others} thanks={thanks}/>} />
-            <Route path="blogs" element={<AboutUs auo={auo} aut={aut}/>} />
+            <Route index path="/" element={<Home mens={mens} womens={womens} kids={kids} everyweek={everyweek} dfcl={dfcl} shirts={shirts} jackets={jackets} hoodies={hoodies} dresses={dresses} trousers={trousers} others={others} thanks={thanks}/>} />
+            <Route path="/AboutUs" element={<AboutUs auo={auo} aut={aut}/>} />
             <Route path="*" element={<NoPage />} />
           </Route>
         </Routes>
